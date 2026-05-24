@@ -12,6 +12,7 @@ public class UserEventDto {
     private String userName;
     private String email;
     private String firstName;
+    private String middleName;
     private String lastName;
 
 }

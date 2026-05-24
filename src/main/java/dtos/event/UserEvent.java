@@ -11,6 +11,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class UserEvent {
     private String messgae;
-    private String Status;
+    private String status;
     private UserEventDto user;
 }
